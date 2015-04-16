@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "chat with iojs ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hackchan/chat.git"
+  },
+  "author": "fabio rojas <fabiorojas7@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hackchan/chat/issues"
+  },
+  "homepage": "https://github.com/hackchan/chat"
+}
